@@ -1,0 +1,1 @@
+    if subtotal >= 500:
