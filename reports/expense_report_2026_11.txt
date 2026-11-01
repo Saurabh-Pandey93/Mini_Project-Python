@@ -1,0 +1,11 @@
+----- MONTHLY EXPENSE REPORT -----
+Report month: November 2026
++----------------+------------+---------------+------------+----------+
+| Reference ID   | Date       | Description   | Category   |   Amount |
++================+============+===============+============+==========+
+| EXP-385648     | 2026-11-01 | kharcha paani | Other      |    20000 |
++----------------+------------+---------------+------------+----------+
+Total spending: 20000.00
+
+Category totals:
+Other total: 20000.00
