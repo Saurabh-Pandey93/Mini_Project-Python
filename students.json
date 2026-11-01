@@ -1,0 +1,11 @@
+{
+    "101": {
+        "name": "saurabh pandey",
+        "department": "cse",
+        "marks": {
+            "Python": 97.0,
+            "Maths": 82.0,
+            "DBMS": 90.0
+        }
+    }
+}
